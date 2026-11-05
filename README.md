@@ -52,6 +52,10 @@ indicada por el usuario. Los nuevos commits usan el mensaje **`R2`**, siguiendo 
 convención `R1` del historial. La hora de entrega depende del último commit que
 afecte a `R2/ejercicio1/`, según las indicaciones de la ronda.
 
+La entrega se propone en el [pull request #1 — R2: Transmisiones masivas (AF)](https://github.com/Tecomahua/los-ctrl-z/pull/1),
+desde `codex/r2-transmisiones-masivas` hacia `main`. En la comprobación posterior
+a su creación GitHub lo marcó sin conflictos; no había ejecuciones de CI.
+
 Este README y el del ejercicio se actualizarán con los hallazgos y verificaciones
 que se produzcan en la conversación. El registro conversacional conserva los
 mensajes originales; los README documentan los resultados técnicos observables.

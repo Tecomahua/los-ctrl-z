@@ -188,7 +188,13 @@ conserva el mismo contenido SHA-256 validado en la primera fase:
 La base de integración es el commit `a37d9513fd80a4939affc4dce629ef2fa0245d51`.
 El árbol original de R1 es `4a20dd20fb9e42ed0e63fd3f6d56147cb9b88790`; su igualdad
 en el árbol propuesto permite verificar que sus archivos permanecen idénticos.
-La integración se propone mediante pull request hacia `main`.
+La integración se propone en el [pull request #1 — R2: Transmisiones masivas (AF)](https://github.com/Tecomahua/los-ctrl-z/pull/1),
+desde `codex/r2-transmisiones-masivas` hacia `main`. El primer commit `R2` es
+`341dd45cb63704725281eea9e2a061d84d49926c`. GitHub confirmó que el pull request
+está abierto, sin conflictos; no se encontraron ejecuciones de CI en esa revisión.
+El diff contiene únicamente `README.md` y rutas dentro de `R2/`, con R1 idéntico
+al árbol original. La conversación exportada se renovó después de abrir el PR,
+conservando un corte explícito para los mensajes posteriores.
 
 Al adaptar las rutas de las utilidades para el repositorio, se recompiló el mismo
 código con GCC 15.2 y C++17, sin advertencias. Se repitieron los dos ejemplos y las
