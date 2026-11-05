@@ -30,10 +30,10 @@ Fecha local: 2026-11-05. Al iniciar solo estaba disponible el prompt maestro adj
 
 Las pruebas diferenciales y los benchmarks solo validan los modelos provisionales y este entorno local. No prueban conformidad con las reglas ocultas ni aceptación en el juez.
 
-## Actualización — solicitud de exportaciones y caja negra
+## Registro de exportaciones y caja negra
 
 El 2026-11-05 se revisó `Los_Ctrl_Z_Conversaciones_R1.zip`: contiene `R1/ejercicio1/conversacion1.md` (29,647 bytes) y `R1/ejercicio2/conversacion2.md` (21,726 bytes). Ambos archivos declaran que son extracciones temáticas y **no** exportaciones íntegras certificadas. Se conservan sin modificaciones para no hacerlas pasar por historiales completos. Cada uno refiere como fuente primaria el chat compartido <https://chatgpt.com/share/6aecb01d-7204-83e8-b329-aa35b545070c>; la consulta web solo devolvió el título de la página y la interfaz de navegador disponible falló al iniciarse. Por ello no fue posible obtener un volcado completo desde ese enlace.
 
 Se buscaron ejecutables de caja negra entre los archivos del proyecto y archivos relevantes de `D:\Backup\Descargas`; no se encontró ninguno. Tampoco hay una URL de caja negra en los documentos disponibles. No se ejecutaron casos contra el juez oficial ni se registran salidas inventadas. Las pruebas y resultados locales anteriores siguen siendo los únicos disponibles y están sujetos a las hipótesis indicadas en las bitácoras A1 y A2.
 
-**Para completar los dos puntos solicitados hacen falta:** (1) exportaciones originales completas desde las plataformas de conversación y (2) el ejecutable oficial de caja negra o su URL/instrucciones de acceso. Hasta recibir esos insumos, las conversaciones no se pueden reemplazar por exportaciones auténticas y las reglas ocultas no se pueden confirmar.
+**Estado comprobable:** no se registran exportaciones íntegras ni ejecuciones oficiales de caja negra en esta entrega. Las conversaciones conservan la nota de procedencia de los archivos fuente y las soluciones siguen identificadas como provisionales. No se atribuyen al juez resultados locales.
