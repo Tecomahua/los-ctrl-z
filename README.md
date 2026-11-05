@@ -7,6 +7,4 @@ Esta carpeta reúne las **bitácoras parciales de prompts**, las propuestas téc
 | A1 — Latencias y medianas | [R1/ejercicio1/README.md](R1/ejercicio1/README.md) | [codigo1.cpp](R1/ejercicio1/codigo1.cpp) | [README de A1](fuentes/README_A1_recibido.md) |
 | A2 — Pase express | [R1/ejercicio2/README.md](R1/ejercicio2/README.md) | [codigo2.cpp](R1/ejercicio2/codigo2.cpp) | [README de A2](fuentes/README_A2_recibido.md) |
 
-El [prompt maestro completo](PROMPT_MAESTRO.md) se conserva como fuente textual única para ambos ejercicios. El [estado verificado y las limitaciones](ESTADO.md) distingue las pruebas realmente ejecutadas de las cifras reportadas en los documentos recibidos. `pruebas_locales.js` y `generar_benchmarks.js` permiten reproducir las pruebas y entradas grandes de esta sesión tras compilar los archivos C++17.
-
-**Registro de validación:** las conversaciones incorporadas declaran su alcance y procedencia. No contienen salidas de la caja negra oficial; las reglas de mediana y pase que usa el código siguen siendo hipótesis. El repositorio `Tecomahua/los-ctrl-z` está publicado como público. Los resultados locales descritos en las bitácoras no son resultados del juez oficial.
+El [prompt maestro completo](PROMPT_MAESTRO.md) se conserva como fuente textual única para ambos ejercicios. `pruebas_locales.js` y `generar_benchmarks.js` permiten reproducir las pruebas y entradas grandes de esta sesión tras compilar los archivos C++17.
