@@ -1,0 +1,92 @@
+[
+  {
+    "name": "un_usuario",
+    "lines": 5000000,
+    "input_bytes": 119444468,
+    "sha256": "84672ac239b8569362ea0ed2646c6f7ac14ef076ce12ad51e12ace281c3539e6",
+    "seconds": 0.6923,
+    "peak_working_set_bytes": 45785088,
+    "peak_private_commit_bytes": 41820160,
+    "output": "1999999 5000000 200.000\n"
+  },
+  {
+    "name": "muchos_usuarios",
+    "lines": 5000000,
+    "input_bytes": 76666693,
+    "sha256": "e079fddd85aaffeeb66d9c5a28fe623069e2523a047521d2855fb267128c8e80",
+    "seconds": 0.493,
+    "peak_working_set_bytes": 45436928,
+    "peak_private_commit_bytes": 41816064,
+    "output": "0 3 1.000\n1 3 1.000\n2 3 1.000\n3 3 1.000\n4 3 1.000\n"
+  },
+  {
+    "name": "uniforme_permutado",
+    "lines": 5000000,
+    "input_bytes": 77222239,
+    "sha256": "1e79653c717c60bcd78bf2b21d70a78f6d5eb28356d727e5e98efe2681e98a39",
+    "seconds": 0.7428,
+    "peak_working_set_bytes": 45432832,
+    "peak_private_commit_bytes": 41803776,
+    "output": "0 3 1.000\n1 3 1.000\n3 3 1.000\n5 3 1.000\n7 3 1.000\n"
+  },
+  {
+    "name": "concentrado",
+    "lines": 5000000,
+    "input_bytes": 108277812,
+    "sha256": "a92c2d9b461608688ede3b6df1a8791356b1b38d796046212963b148e0052066",
+    "seconds": 0.6353,
+    "peak_working_set_bytes": 15450112,
+    "peak_private_commit_bytes": 41807872,
+    "output": "1999999 4500000 1.111\n0 1 NA\n1 1 NA\n2 1 NA\n3 1 NA\n"
+  },
+  {
+    "name": "duplicados",
+    "lines": 5000000,
+    "input_bytes": 93889032,
+    "sha256": "807457e984c553e7946b5a24e940eec2cbab38750050bcee7694eb95c19f5d0e",
+    "seconds": 0.5239,
+    "peak_working_set_bytes": 13447168,
+    "peak_private_commit_bytes": 41807872,
+    "output": "1999999 50000 1.000\n"
+  },
+  {
+    "name": "invalidos",
+    "lines": 5000000,
+    "input_bytes": 97013911,
+    "sha256": "08b2bec65194fcdedb98f06fc3772cdaa52d31af410b8bb4fc67fdbdb70b7b4b",
+    "seconds": 0.4895,
+    "peak_working_set_bytes": 13438976,
+    "peak_private_commit_bytes": 41811968,
+    "output": "1999999 625000 NA\n"
+  },
+  {
+    "name": "max_longitud",
+    "lines": 5000000,
+    "input_bytes": 120000033,
+    "sha256": "e8213c2440352e057bfad228715c97d9e7a5fc302cad29e267ba85a38541d358",
+    "seconds": 1.0222,
+    "peak_working_set_bytes": 29450240,
+    "peak_private_commit_bytes": 41803776,
+    "output": "1000000 5 1000000.000\n1000001 5 1000000.000\n1000002 5 1000000.000\n1000003 5 1000000.000\n1000004 5 1000000.000\n"
+  },
+  {
+    "name": "dentro_fuera",
+    "lines": 5000000,
+    "input_bytes": 98333425,
+    "sha256": "f36de3e4f3d10c253a707fe7ed78d4cc5eee103da830af6a902be068f87f1949",
+    "seconds": 0.573,
+    "peak_working_set_bytes": 15044608,
+    "peak_private_commit_bytes": 41816064,
+    "output": "0 21 100000.000\n1 20 100000.000\n2 20 100000.000\n3 20 100000.000\n4 20 100000.000\n"
+  },
+  {
+    "name": "sin_brechas",
+    "lines": 5000000,
+    "input_bytes": 119444466,
+    "sha256": "96d8b22ea6e987678cc012360ba1fb04efd47ae90d531f94a9409247543f388a",
+    "seconds": 0.9372,
+    "peak_working_set_bytes": 13438976,
+    "peak_private_commit_bytes": 41811968,
+    "output": "1999999 5000000 NA\n"
+  }
+]

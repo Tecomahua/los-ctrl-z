@@ -1,0 +1,8 @@
+{
+  "seed": 20261105,
+  "regressions": 224,
+  "official": 2,
+  "random": 0,
+  "seconds": 6.859,
+  "comparison": "byte for byte, native Windows CRLF"
+}

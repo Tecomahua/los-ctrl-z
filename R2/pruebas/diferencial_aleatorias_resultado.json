@@ -1,0 +1,9 @@
+{
+  "seed": 20261105,
+  "regressions": 196,
+  "official": 2,
+  "random": 3000,
+  "seconds": 106.326,
+  "comparison": "byte for byte, native Windows CRLF",
+  "provenance": "Resultado real de la primera ejecucion, recuperado de la salida registrada en el chat; una segunda ejecucion con 0 aleatorias habia sobrescrito el archivo de resumen."
+}
